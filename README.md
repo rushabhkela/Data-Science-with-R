@@ -21,35 +21,50 @@
 <details>
   <summary>Obtaining the data</summary>
   <ul>
-    Scenario : <a href="https://github.com/rushabhkela/Data-Science-with-R/tree/main/Part%201"><strong>Code</strong></a>
+    <a href="https://github.com/rushabhkela/Data-Science-with-R/tree/main/Part%201"><strong>Scenario</strong></a>
+  </ul>
+  <ul>
+    <a href="https://github.com/rushabhkela/Data-Science-with-R/tree/main/Part%201/solution.R"><strong>Code</strong></a>
   </ul>
 </details>
 
 <details>
   <summary>Data Wrangling and Preprocessing</summary>
   <ul>
-    Scenario : <a href="https://github.com/rushabhkela/Data-Science-with-R/tree/main/Part%202"><strong>Code</strong></a>
+    <a href="https://github.com/rushabhkela/Data-Science-with-R/tree/main/Part%202"><strong>Scenario</strong></a>
+  </ul>
+  <ul>
+    <a href="https://github.com/rushabhkela/Data-Science-with-R/tree/main/Part%202/solution.R"><strong>Code</strong></a>
   </ul>
 </details>
 
 <details>
   <summary>Handling Missing Data</summary>
+ <ul>
+    <a href="https://github.com/rushabhkela/Data-Science-with-R/tree/main/Part%203"><strong>Scenario</strong></a>
+  </ul>
   <ul>
-    Scenario : <a href="https://github.com/rushabhkela/Data-Science-with-R/tree/main/Part%203"><strong>Code</strong></a>
+    <a href="https://github.com/rushabhkela/Data-Science-with-R/tree/main/Part%203/solution.R"><strong>Code</strong></a>
   </ul>
 </details>
 
 <details>
   <summary>Statistical Methods and Hypothesis Testing</summary>
   <ul>
-    Scenario : <a href="https://github.com/rushabhkela/Data-Science-with-R/tree/main/Part%204"><strong>Code</strong></a>
+    <a href="https://github.com/rushabhkela/Data-Science-with-R/tree/main/Part%204"><strong>Scenario</strong></a>
+  </ul>
+  <ul>
+    <a href="https://github.com/rushabhkela/Data-Science-with-R/tree/main/Part%204/solution.R"><strong>Code</strong></a>
   </ul>
 </details>
 
 <details>
   <summary>Modelling, Evaluation and Visualization</summary>
   <ul>
-    Scenario : <a href="https://github.com/rushabhkela/Data-Science-with-R/tree/main/Part%205"><strong>Code</strong></a>
+    <a href="https://github.com/rushabhkela/Data-Science-with-R/tree/main/Part%205"><strong>Scenario</strong></a>
+  </ul>
+  <ul>
+    <a href="https://github.com/rushabhkela/Data-Science-with-R/tree/main/Part%205/solution.R"><strong>Code</strong></a>
   </ul>
 </details>
 
