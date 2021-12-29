@@ -29,7 +29,7 @@ data frame </li>
 <h4>R Script:</h4>
 <b>The code is self-explanatory and is written step-by-step with all the necessary comments. It is recommended that you view the solution only after trying the above activity on your own.
 <br>
-<a href="https://github.com/rushabhkela/Data-Science-with-R/blob/main/Part%201/solution.R"><b>Code</b></a>
+<a href="https://github.com/rushabhkela/Data-Science-with-R/blob/main/Part%202/solution.R"><b>Code</b></a>
 
 
 </details>
