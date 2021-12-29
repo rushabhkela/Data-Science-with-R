@@ -44,7 +44,7 @@ one column). </li>
 <br>
 <a href="https://github.com/rushabhkela/Data-Science-with-R/blob/main/Part%203/solution.R"><b>Code</b></a>
 
-<h4>Outputs: <h4>
+<h4>Outputs (Dataset and Plots): <h4>
 <h3>Missing dataset</h3>
 <img src="outputs/missingData.png" width="100%" alt="missingData">
 <br><br>
