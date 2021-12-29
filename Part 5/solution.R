@@ -31,7 +31,7 @@ library(plotly)
 library(caTools)
 
 # Reading the data
-data <- read.csv("https://raw.githubusercontent.com/anthoniraj/dsr_datasets_final/main/19BDS0055.csv")
+data <- read.csv("https://raw.githubusercontent.com/rushabhkela/Data-Science-with-R/main/Part%205/NSEdataset.csv")
 head(data)
 
 # The stock market was closed on 19th November, and data fetched from the website was not updated
